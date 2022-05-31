@@ -1,4 +1,12 @@
-### Hi there 👋
+[![Ivan's GitHub Banner](.assets/banner.png)]
+
+Hey there 👋
+
+I’m Ivan, a junior full-stack engineer, who specializes in Python and Django framework.
+I make it my mission to create perfect scaling international application!
+
+Want to know more about me? Check out my terminal like [portfolio](https://impopov.vercel.app).
+
 
 <!--
 **impopov/impopov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
