@@ -15,7 +15,9 @@ Want to know more about me? Check out my terminal like [portfolio](https://impop
 ![](https://img.shields.io/badge/Code-MySql-4AB197?style=flat&logo=mysql&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-HTML5-4AB197?style=flat&logo=html5&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-RESTAPI-4AB197)
+![](https://img.shields.io/badge/Code-HTML5-4AB197?style=flat&logo=html5&logoColor=white&color=4AB197)
 
+![](https://img.shields.io/badge/Code-GO-4AB197?style=flat&logo=go&logoColor=white&color=4AB197)
 
 
 ![](https://img.shields.io/badge/Style-CSS3-4AB197?style=flat&logo=CSS3&logoColor=white&color=4AB197)
